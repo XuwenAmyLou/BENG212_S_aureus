@@ -9,5 +9,4 @@ Step 2: process data
 Alignment done by Jayanth Krishnan. Files uploaded to the folder
 
 Step 3: quality control
-[In progress02/20]
-  - Part 1 completed, 56% passed the quality test
+
